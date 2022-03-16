@@ -7,15 +7,15 @@ To this end, we analyzed a dataset [3] containing multiple such features for car
 
 # Description of Data
 The dataset has 4860 rows and 9 columns, with the following variables:
-  - “model”: Hyundai model of the car.
-  - “year”: Year of registration for the car.
-  - “price”: Price of the car (in Euros).
-  - “transmission”: Car’s gearbox type.
-● “mileage”: Distance used up by the car.
-● “fuelType”: Type of engine fuel used by the car.
-● “tax”: Road tax of the car.
-● “mpg”: Miles per gallon, i.e., the distance per gallon the car can travel up to.
-● “engineSize”: Engine size (in litres) of the car.
+  - "model": Hyundai model of the car.
+  - "year": Year of registration for the car.
+  - "price": Price of the car (in Euros).
+  - "transmission": Car’s gearbox type.
+  - "mileage": Distance used up by the car.
+  - "fuelType": Type of engine fuel used by the car.
+  - "tax": Road tax of the car.
+  - "mpg": Miles per gallon, i.e., the distance per gallon the car can travel up to.
+  - "engineSize": Engine size (in litres) of the car.
 
 # Overview of Methodology
 Our regression analysis was conducted via the following broad sequence of steps:
